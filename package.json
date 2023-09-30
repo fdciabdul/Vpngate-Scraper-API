@@ -1,0 +1,15 @@
+{
+  "name": "vpngate",
+  "version": "1.0.0",
+  "description": "This is an auto-generated list of VPNs retrieved from a specific source.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
