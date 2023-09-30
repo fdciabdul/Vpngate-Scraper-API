@@ -16,10 +16,18 @@ const generateReadme = (vpnList) => {
     content += `## Available Servers\n\n`;
     content += `Below is the list of available VPN servers:\n\n`;
 
+<<<<<<< HEAD
     content += "| Hostname | IP Address | Score | Country | OpenVPN Config |\n";
     content += "|----------|------------|-------|---------|----------------|\n";
     vpnList.servers.forEach((server, index) => {
         content += `| ${server.hostname} | ${server.ip} | ${server.score} | ${server.countrylong} | [Download 📥](./configs/server${index}.ovpn) |\n`;
+=======
+    content += "| Hostname | IP Address | Ping | Speed | Country | OpenVPN Config |\n";
+    content += "|----------|------------|-------|-------|---------|----------------|\n";
+    vpnList.servers.forEach((server, index) => {
+        let speedInMbps = (server.speed / 10000000).toFixed(2); // Convert to Mbps and round to two decimal places
+        content += `| ${server.hostname} | ${server.ip} | ${server.ping} | ${speedInMbps} Mbps | ${server.countrylong} | [Download 📥](./configs/server_${index}_${server.countryshort}.ovpn) |\n`;
+>>>>>>> fe5b69d (Sdasd)
     });
 
     content += `\n\n### Note: Please respect the terms of use for each VPN.\n\n`;
@@ -45,11 +53,19 @@ getVpnList()
         servers = vpnList.servers;
         countries = vpnList.countries;
         lastUpdated = Date.now();
+<<<<<<< HEAD
         fs.writeFileSync("json/data.json",JSON.stringify(vpnList),"utf-8")
         // Save the configs and update the readme
         vpnList.servers.forEach((server, index) => {
             const configData = server.openvpn_configdata_base64;
             saveBase64ToFile(configData, `./configs/server${index}.ovpn`);
+=======
+        fs.writeFileSync("json/data.json",JSON.stringify([vpnList,lastUpdated], null, 4),"utf-8")
+        // Save the configs and update the readme
+        vpnList.servers.forEach((server, index) => {
+            const configData = server.openvpn_configdata_base64;
+            saveBase64ToFile(configData, `./configs/server_${index}_${server.countryshort}.ovpn`);
+>>>>>>> fe5b69d (Sdasd)
         });
 
         generateReadme(vpnList);
