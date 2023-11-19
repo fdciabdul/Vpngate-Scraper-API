@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 19 Nov 2023 17:34:05 GMT.
+This list was last updated on: Sun, 19 Nov 2023 17:43:23 GMT.
 
 ## Available Servers
 
@@ -104,12 +104,12 @@ Below is the list of available VPN servers:
 | vpn543020326 | 49.228.177.48 | 41 | 21.47 Mbps | Thailand | [Download 📥](./configs/server_89_TH.ovpn) |
 | vpn118093942 | 211.197.241.175 | 37 | 8.95 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
 | vpn150317382 | 110.76.94.14 | 26 | 2.20 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
-| vpn470591700 | 220.120.56.244 | 37 | 29.08 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
-| vpn292869198 | 203.129.97.33 | 16 | 1.56 Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) |
-| vpn876573660 | 49.228.177.48 | 36 | 50.84 Mbps | Thailand | [Download 📥](./configs/server_94_TH.ovpn) |
-| vpn379777045 | 1.223.113.122 | 77 | 1.25 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
-| vpn220573656 | 49.228.236.52 | 38 | 51.85 Mbps | Thailand | [Download 📥](./configs/server_96_TH.ovpn) |
-| vpn614897578 | 46.45.39.119 | 41 | 5.37 Mbps | Russian Federation | [Download 📥](./configs/server_97_RU.ovpn) |
+| vpn629932517 | 175.120.253.164 | 34 | 30.14 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
+| vpn470591700 | 220.120.56.244 | 37 | 29.08 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
+| vpn292869198 | 203.129.97.33 | 16 | 1.56 Mbps | Japan | [Download 📥](./configs/server_94_JP.ovpn) |
+| vpn876573660 | 49.228.177.48 | 36 | 50.84 Mbps | Thailand | [Download 📥](./configs/server_95_TH.ovpn) |
+| vpn379777045 | 1.223.113.122 | 77 | 1.25 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
+| vpn220573656 | 49.228.236.52 | 38 | 51.85 Mbps | Thailand | [Download 📥](./configs/server_97_TH.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
