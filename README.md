@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 02 Dec 2023 18:35:16 GMT.
+This list was last updated on: Sat, 02 Dec 2023 18:44:08 GMT.
 
 ## Available Servers
 
@@ -95,9 +95,9 @@ Below is the list of available VPN servers:
 | vpn116196084 | 211.195.76.205 | 28 | 28.22 Mbps | Korea Republic of | [Download 📥](./configs/server_80_KR.ovpn) |
 | vpn701965973 | 123.212.19.80 | 34 | 9.96 Mbps | Korea Republic of | [Download 📥](./configs/server_81_KR.ovpn) |
 | vpn264461555 | 122.45.86.228 | 48 | 9.22 Mbps | Korea Republic of | [Download 📥](./configs/server_82_KR.ovpn) |
-| vpn929427196 | 189.107.95.47 | 10 | 19.86 Mbps | Brazil | [Download 📥](./configs/server_83_BR.ovpn) |
-| vpn485805007 | 121.188.181.77 | 32 | 9.43 Mbps | Korea Republic of | [Download 📥](./configs/server_84_KR.ovpn) |
-| vpn549039820 | 210.179.239.204 | 30 | 77.64 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
+| vpn549039820 | 210.179.239.204 | 30 | 77.64 Mbps | Korea Republic of | [Download 📥](./configs/server_83_KR.ovpn) |
+| vpn929427196 | 189.107.95.47 | 10 | 19.86 Mbps | Brazil | [Download 📥](./configs/server_84_BR.ovpn) |
+| vpn485805007 | 121.188.181.77 | 32 | 9.43 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
 | vpn449314544 | 138.64.215.178 | 3 | 9.78 Mbps | Japan | [Download 📥](./configs/server_86_JP.ovpn) |
 | vpn671772829 | 58.229.164.18 | 38 | 7.07 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
 | vpn356059875 | 125.138.141.64 | 31 | 5.27 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
