@@ -21,15 +21,15 @@
             {
                 "hostname": "public-vpn-129",
                 "ip": "219.100.37.103",
-                "score": "2607503",
+                "score": "2606408",
                 "ping": "11",
                 "speed": "254594117",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "70",
-                "uptime": "1584553059",
+                "numvpnsessions": "69",
+                "uptime": "1584588666",
                 "totalusers": "4286340",
-                "totaltraffic": "174901202547261",
+                "totaltraffic": "174901225389120",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1699,5 +1699,5 @@
             "la": "Lao People's Democratic Republic"
         }
     },
-    1705526228648
+    1705526350865
 ]
