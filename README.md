@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Fri, 02 Feb 2024 14:27:37 GMT.
+This list was last updated on: Fri, 02 Feb 2024 14:28:34 GMT.
 
 ## Available Servers
 
@@ -104,12 +104,12 @@ Below is the list of available VPN servers:
 | vpn410094739 | 184.22.105.75 | 31 | 29.42 Mbps | Thailand | [Download 📥](./configs/server_89_TH.ovpn) |
 | vpn760086884 | 182.215.126.184 | 40 | 22.37 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
 | vpn119753090 | 183.97.0.129 | - | 7.54 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
-| vpn262266782 | 49.142.176.226 | 41 | 9.14 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
-| vpn853564613 | 1.231.172.195 | 31 | 44.81 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
-| vpn883472095 | 1.231.172.195 | 31 | 45.69 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
-| vpn970780334 | 175.117.216.118 | 36 | 9.59 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
-| vpn640202138 | 49.228.255.215 | 30 | 26.52 Mbps | Thailand | [Download 📥](./configs/server_96_TH.ovpn) |
-| vpn735218454 | 121.152.86.189 | 35 | 14.17 Mbps | Korea Republic of | [Download 📥](./configs/server_97_KR.ovpn) |
+| vpn853564613 | 1.231.172.195 | 31 | 44.81 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
+| vpn883472095 | 1.231.172.195 | 31 | 45.69 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
+| vpn970780334 | 175.117.216.118 | 36 | 9.59 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
+| vpn640202138 | 49.228.255.215 | 30 | 26.52 Mbps | Thailand | [Download 📥](./configs/server_95_TH.ovpn) |
+| vpn735218454 | 121.152.86.189 | 35 | 14.17 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
+| vpn861724131 | 115.41.121.154 | 55 | 11.52 Mbps | Korea Republic of | [Download 📥](./configs/server_97_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
