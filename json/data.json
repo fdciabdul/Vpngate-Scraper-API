@@ -888,15 +888,15 @@
             {
                 "hostname": "vpn266304712",
                 "ip": "126.19.191.17",
-                "score": "608603",
+                "score": "607379",
                 "ping": "18",
                 "speed": "252794744",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "15",
+                "numvpnsessions": "13",
                 "uptime": "0",
-                "totalusers": "16922",
-                "totaltraffic": "2681462723666",
+                "totalusers": "16919",
+                "totaltraffic": "2681319843777",
                 "logtype": "2weeks",
                 "operator": "YT's owner",
                 "message": "",
@@ -1585,15 +1585,15 @@
             {
                 "hostname": "vpn807487388",
                 "ip": "46.147.12.205",
-                "score": "399972",
+                "score": "399185",
                 "ping": "32",
                 "speed": "12769542",
                 "countrylong": "Russian Federation",
                 "countryshort": "RU",
-                "numvpnsessions": "5",
+                "numvpnsessions": "4",
                 "uptime": "65991651",
-                "totalusers": "53",
-                "totaltraffic": "5201950320",
+                "totalusers": "43",
+                "totaltraffic": "4768138022",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-7SLQLHC's owner",
                 "message": "",
@@ -1665,5 +1665,5 @@
             "de": "Germany"
         }
     },
-    1707033306613
+    1707033482028
 ]
