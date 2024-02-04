@@ -361,15 +361,15 @@
             {
                 "hostname": "vpn927773681",
                 "ip": "175.134.237.164",
-                "score": "796008",
+                "score": "796655",
                 "ping": "2",
                 "speed": "49383659",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "66",
+                "numvpnsessions": "67",
                 "uptime": "79824501",
-                "totalusers": "31821",
-                "totaltraffic": "2686255716714",
+                "totalusers": "31819",
+                "totaltraffic": "2686220027452",
                 "logtype": "2weeks",
                 "operator": "DESKTOP-FBAT3B4's owner",
                 "message": "",
@@ -1678,5 +1678,5 @@
             "ru": "Russian Federation"
         }
     },
-    1707076614944
+    1707077242348
 ]
