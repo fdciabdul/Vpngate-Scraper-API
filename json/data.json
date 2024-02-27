@@ -174,15 +174,15 @@
             {
                 "hostname": "public-vpn-126",
                 "ip": "219.100.37.99",
-                "score": "1920075",
+                "score": "1918458",
                 "ping": "16",
                 "speed": "1685564902",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "64",
-                "uptime": "2029016123",
-                "totalusers": "7076173",
-                "totaltraffic": "315228654799379",
+                "numvpnsessions": "62",
+                "uptime": "2028960117",
+                "totalusers": "7076171",
+                "totaltraffic": "315228592832922",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1663,5 +1663,5 @@
             "ua": "Ukraine"
         }
     },
-    1709040854273
+    1709041274146
 ]
