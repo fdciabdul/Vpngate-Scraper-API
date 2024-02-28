@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Wed, 28 Feb 2024 23:44:18 GMT.
+This list was last updated on: Wed, 28 Feb 2024 23:45:06 GMT.
 
 ## Available Servers
 
@@ -101,13 +101,13 @@ Below is the list of available VPN servers:
 | vpn704294482 | 146.70.205.6 | 1 | 98.16 Mbps | Romania | [Download 📥](./configs/server_86_RO.ovpn) |
 | vpn972997427 | 92.119.112.155 | 1 | 7.88 Mbps | Netherlands | [Download 📥](./configs/server_87_NL.ovpn) |
 | v-dot-pn-dus1 | 62.133.35.246 | 3 | 6.06 Mbps | Germany | [Download 📥](./configs/server_88_DE.ovpn) |
-| vpn794889600 | 185.73.203.176 | 10 | 7.38 Mbps | Turkey | [Download 📥](./configs/server_89_TR.ovpn) |
-| vpn652658110 | 114.155.127.183 | 7 | 0.95 Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) |
-| vpn496482444 | 126.94.143.200 | 7 | 4.92 Mbps | Japan | [Download 📥](./configs/server_91_JP.ovpn) |
-| vpn419358107 | 176.77.87.241 | 34 | 1.40 Mbps | Russian Federation | [Download 📥](./configs/server_92_RU.ovpn) |
-| vpn505069606 | 182.169.230.156 | 12 | 8.92 Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) |
-| v-dot-pn-hkg1 | 45.125.0.246 | 1 | 81.44 Mbps | Hong Kong | [Download 📥](./configs/server_94_HK.ovpn) |
-| denrr11 | 202.137.113.55 | 35 | 7.05 Mbps | Philippines | [Download 📥](./configs/server_95_PH.ovpn) |
+| vpn652658110 | 114.155.127.183 | 7 | 0.95 Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) |
+| vpn496482444 | 126.94.143.200 | 7 | 4.92 Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) |
+| vpn419358107 | 176.77.87.241 | 34 | 1.40 Mbps | Russian Federation | [Download 📥](./configs/server_91_RU.ovpn) |
+| vpn505069606 | 182.169.230.156 | 12 | 8.92 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
+| v-dot-pn-hkg1 | 45.125.0.246 | 1 | 81.44 Mbps | Hong Kong | [Download 📥](./configs/server_93_HK.ovpn) |
+| denrr11 | 202.137.113.55 | 35 | 7.05 Mbps | Philippines | [Download 📥](./configs/server_94_PH.ovpn) |
+| vpn683964405 | 126.72.68.179 | 3 | 65.30 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
