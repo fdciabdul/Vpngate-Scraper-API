@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Wed, 06 Mar 2024 03:59:24 GMT.
+This list was last updated on: Wed, 06 Mar 2024 04:00:11 GMT.
 
 ## Available Servers
 
@@ -68,8 +68,8 @@ Below is the list of available VPN servers:
 | vpn721375836 | 175.127.197.35 | 36 | 9.36 Mbps | Korea Republic of | [Download 📥](./configs/server_53_KR.ovpn) |
 | vpn142180822 | 180.231.4.223 | 38 | 20.85 Mbps | Korea Republic of | [Download 📥](./configs/server_54_KR.ovpn) |
 | vpn661089673 | 202.173.108.168 | 6 | 9.20 Mbps | Japan | [Download 📥](./configs/server_55_JP.ovpn) |
-| vpn346763354 | 121.118.102.157 | 3 | 22.15 Mbps | Japan | [Download 📥](./configs/server_56_JP.ovpn) |
-| vpn350908335 | 211.124.137.220 | 12 | 26.69 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
+| vpn350908335 | 211.124.137.220 | 12 | 26.69 Mbps | Japan | [Download 📥](./configs/server_56_JP.ovpn) |
+| vpn346763354 | 121.118.102.157 | 3 | 22.15 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
 | itsdanitobg | 51.20.141.135 | 2 | 3.45 Mbps | United States | [Download 📥](./configs/server_58_US.ovpn) |
 | vpn603990303 | 123.222.11.92 | 12 | 6.55 Mbps | Japan | [Download 📥](./configs/server_59_JP.ovpn) |
 | vpn838756659 | 125.24.113.224 | 34 | 14.95 Mbps | Thailand | [Download 📥](./configs/server_60_TH.ovpn) |
