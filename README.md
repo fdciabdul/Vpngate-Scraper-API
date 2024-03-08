@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Fri, 08 Mar 2024 02:43:39 GMT.
+This list was last updated on: Fri, 08 Mar 2024 02:50:46 GMT.
 
 ## Available Servers
 
@@ -108,8 +108,8 @@ Below is the list of available VPN servers:
 | vpn246590300 | 78.137.122.113 | 6 | 6.86 Mbps | United Kingdom | [Download 📥](./configs/server_93_GB.ovpn) |
 | vpn794889600 | 185.73.203.176 | 7 | 9.09 Mbps | Turkey | [Download 📥](./configs/server_94_TR.ovpn) |
 | v-dot-pn-dus1 | 62.133.35.246 | 3 | 9.30 Mbps | Germany | [Download 📥](./configs/server_95_DE.ovpn) |
-| vpn631547427 | 133.114.168.196 | 12 | 4.30 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
-| v-dot-pn-tll1 | 91.193.75.5 | 24 | 21.44 Mbps | Germany | [Download 📥](./configs/server_97_DE.ovpn) |
+| hal-jp | 124.213.112.144 | 8 | 22.25 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
+| vpn631547427 | 133.114.168.196 | 12 | 4.30 Mbps | Japan | [Download 📥](./configs/server_97_JP.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
