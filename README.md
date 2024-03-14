@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Thu, 14 Mar 2024 21:35:37 GMT.
+This list was last updated on: Thu, 14 Mar 2024 21:38:02 GMT.
 
 ## Available Servers
 
@@ -106,10 +106,10 @@ Below is the list of available VPN servers:
 | vpn126643003 | 138.229.193.55 | 49 | 21.36 Mbps | United States | [Download 📥](./configs/server_91_US.ovpn) |
 | vpn747925372 | 46.183.131.4 | 113 | 9.41 Mbps | Russian Federation | [Download 📥](./configs/server_92_RU.ovpn) |
 | vpn603930053 | 153.212.187.17 | - | 8.72 Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) |
-| vpn704294482 | 146.70.205.6 | 1 | 96.98 Mbps | Romania | [Download 📥](./configs/server_94_RO.ovpn) |
-| v-dot-pn-dus1 | 62.133.35.246 | 3 | 14.73 Mbps | Germany | [Download 📥](./configs/server_95_DE.ovpn) |
-| vpn840304259 | 60.120.42.19 | 5 | 64.66 Mbps | Japan | [Download 📥](./configs/server_96_JP.ovpn) |
-| vpn718452088 | 185.113.8.203 | 2 | 5.98 Mbps | Moldova Republic of | [Download 📥](./configs/server_97_MD.ovpn) |
+| v-dot-pn-dus1 | 62.133.35.246 | 3 | 14.73 Mbps | Germany | [Download 📥](./configs/server_94_DE.ovpn) |
+| vpn840304259 | 60.120.42.19 | 5 | 64.66 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
+| vpn718452088 | 185.113.8.203 | 2 | 5.98 Mbps | Moldova Republic of | [Download 📥](./configs/server_96_MD.ovpn) |
+| vpn794889600 | 185.73.203.176 | 27 | 8.02 Mbps | Turkey | [Download 📥](./configs/server_97_TR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
