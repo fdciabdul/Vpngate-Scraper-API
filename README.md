@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 23 Mar 2024 06:57:16 GMT.
+This list was last updated on: Sat, 23 Mar 2024 06:58:27 GMT.
 
 ## Available Servers
 
@@ -72,13 +72,13 @@ Below is the list of available VPN servers:
 | vpn502238747 | 126.123.248.51 | 9 | 36.33 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
 | vpn745692909 | 159.28.136.238 | 3 | 97.97 Mbps | Japan | [Download 📥](./configs/server_58_JP.ovpn) |
 | vpn534675702 | 219.105.185.132 | 9 | 28.19 Mbps | Japan | [Download 📥](./configs/server_59_JP.ovpn) |
-| vpn678331002 | 153.229.142.129 | 3 | 5.69 Mbps | Japan | [Download 📥](./configs/server_60_JP.ovpn) |
-| vpn842797867 | 39.110.15.218 | 3 | 50.84 Mbps | Japan | [Download 📥](./configs/server_61_JP.ovpn) |
+| vpn842797867 | 39.110.15.218 | 3 | 50.84 Mbps | Japan | [Download 📥](./configs/server_60_JP.ovpn) |
+| vpn678331002 | 153.229.142.129 | 3 | 5.69 Mbps | Japan | [Download 📥](./configs/server_61_JP.ovpn) |
 | vpn336344069 | 222.116.129.79 | 28 | 10.22 Mbps | Korea Republic of | [Download 📥](./configs/server_62_KR.ovpn) |
 | vpn258521217 | 113.153.86.227 | 8 | 8.44 Mbps | Japan | [Download 📥](./configs/server_63_JP.ovpn) |
 | vpn847390971 | 49.228.176.81 | 33 | 40.18 Mbps | Thailand | [Download 📥](./configs/server_64_TH.ovpn) |
-| vpn239252234 | 123.220.242.65 | 8 | 2.57 Mbps | Japan | [Download 📥](./configs/server_65_JP.ovpn) |
-| vpn516271330 | 59.13.196.253 | 36 | 39.95 Mbps | Korea Republic of | [Download 📥](./configs/server_66_KR.ovpn) |
+| vpn516271330 | 59.13.196.253 | 36 | 39.95 Mbps | Korea Republic of | [Download 📥](./configs/server_65_KR.ovpn) |
+| vpn239252234 | 123.220.242.65 | 8 | 2.57 Mbps | Japan | [Download 📥](./configs/server_66_JP.ovpn) |
 | vpn506548122 | 175.198.165.76 | 28 | 4.44 Mbps | Korea Republic of | [Download 📥](./configs/server_67_KR.ovpn) |
 | vpn411978466 | 133.32.177.155 | 14 | 8.14 Mbps | Japan | [Download 📥](./configs/server_68_JP.ovpn) |
 | vpn349408295 | 223.133.151.61 | 4 | 94.77 Mbps | Japan | [Download 📥](./configs/server_69_JP.ovpn) |
