@@ -191,15 +191,15 @@
             {
                 "hostname": "public-vpn-205",
                 "ip": "219.100.37.214",
-                "score": "1528199",
+                "score": "1525653",
                 "ping": "20",
                 "speed": "1198473191",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "90",
-                "uptime": "4851917190",
-                "totalusers": "7037179",
-                "totaltraffic": "332858561366438",
+                "numvpnsessions": "86",
+                "uptime": "4851949557",
+                "totalusers": "7037180",
+                "totaltraffic": "332858647010137",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1661,5 +1661,5 @@
             "mm": "Myanmar"
         }
     },
-    1711863734035
+    1711863821705
 ]
