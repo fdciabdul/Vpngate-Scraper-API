@@ -888,15 +888,15 @@
             {
                 "hostname": "vpn601385357",
                 "ip": "133.32.133.252",
-                "score": "601182",
+                "score": "599358",
                 "ping": "17",
                 "speed": "82910425",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "8",
+                "numvpnsessions": "5",
                 "uptime": "15962754",
-                "totalusers": "15226",
-                "totaltraffic": "1405228547414",
+                "totalusers": "15222",
+                "totaltraffic": "1405120019701",
                 "logtype": "2weeks",
                 "operator": "PC's owner",
                 "message": "",
@@ -1688,5 +1688,5 @@
             "bg": "Bulgaria"
         }
     },
-    1712864130542
+    1712864199050
 ]
