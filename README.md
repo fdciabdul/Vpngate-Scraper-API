@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sun, 21 Apr 2024 13:23:36 GMT.
+This list was last updated on: Sun, 21 Apr 2024 13:30:52 GMT.
 
 ## Available Servers
 
@@ -54,7 +54,7 @@ Below is the list of available VPN servers:
 | vpn802629635 | 121.145.47.47 | 22 | 9.05 Mbps | Korea Republic of | [Download 📥](./configs/server_39_KR.ovpn) |
 | vpn808644585 | 118.241.208.119 | 1 | 79.02 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
 | vpn518726010 | 120.75.203.168 | 13 | 29.09 Mbps | Japan | [Download 📥](./configs/server_41_JP.ovpn) |
-| vpn920559093 | 207.65.157.130 | 3 | 32.89 Mbps | Japan | [Download 📥](./configs/server_42_JP.ovpn) |
+| vpn920559093 | 207.65.157.130 | 2 | 38.21 Mbps | Japan | [Download 📥](./configs/server_42_JP.ovpn) |
 | vpn234435162 | 126.49.120.119 | 11 | 19.28 Mbps | Japan | [Download 📥](./configs/server_43_JP.ovpn) |
 | vpn842797867 | 39.110.15.218 | 3 | 45.19 Mbps | Japan | [Download 📥](./configs/server_44_JP.ovpn) |
 | vpn483090334 | 182.171.9.34 | 8 | 95.04 Mbps | Japan | [Download 📥](./configs/server_45_JP.ovpn) |
@@ -90,8 +90,8 @@ Below is the list of available VPN servers:
 | vpn822163599 | 1.52.110.239 | 24 | 14.60 Mbps | Viet Nam | [Download 📥](./configs/server_75_VN.ovpn) |
 | vpn356181271 | 58.136.240.184 | 25 | 65.46 Mbps | Thailand | [Download 📥](./configs/server_76_TH.ovpn) |
 | vpn454222490 | 126.92.237.140 | 11 | 18.82 Mbps | Japan | [Download 📥](./configs/server_77_JP.ovpn) |
-| vpn403294661 | 121.129.205.146 | 28 | 9.57 Mbps | Korea Republic of | [Download 📥](./configs/server_78_KR.ovpn) |
-| vpn812934891 | 184.82.14.217 | 27 | 3.12 Mbps | Thailand | [Download 📥](./configs/server_79_TH.ovpn) |
+| vpn812934891 | 184.82.14.217 | 27 | 3.12 Mbps | Thailand | [Download 📥](./configs/server_78_TH.ovpn) |
+| vpn403294661 | 121.129.205.146 | 28 | 9.57 Mbps | Korea Republic of | [Download 📥](./configs/server_79_KR.ovpn) |
 | vpn745406884 | 42.114.240.208 | 26 | 32.84 Mbps | Viet Nam | [Download 📥](./configs/server_80_VN.ovpn) |
 | vpn177680099 | 121.179.151.47 | 26 | 38.02 Mbps | Korea Republic of | [Download 📥](./configs/server_81_KR.ovpn) |
 | vpn965455533 | 119.204.10.87 | 28 | 8.16 Mbps | Korea Republic of | [Download 📥](./configs/server_82_KR.ovpn) |
