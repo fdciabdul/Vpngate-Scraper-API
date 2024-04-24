@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Wed, 24 Apr 2024 02:57:46 GMT.
+This list was last updated on: Wed, 24 Apr 2024 03:06:35 GMT.
 
 ## Available Servers
 
@@ -90,22 +90,22 @@ Below is the list of available VPN servers:
 | vpn370192702 | 73.190.120.9 | 21 | 2.40 Mbps | United States | [Download 📥](./configs/server_75_US.ovpn) |
 | v-dot-pn-dus1 | 62.133.35.246 | 3 | 16.79 Mbps | Germany | [Download 📥](./configs/server_76_DE.ovpn) |
 | vpn246590300 | 78.137.122.113 | 6 | 9.11 Mbps | United Kingdom | [Download 📥](./configs/server_77_GB.ovpn) |
-| vpn122299033 | 185.181.229.102 | 15 | 4.85 Mbps | Moldova Republic of | [Download 📥](./configs/server_78_MD.ovpn) |
-| vpn475858293 | 153.205.163.180 | 5 | 17.64 Mbps | Japan | [Download 📥](./configs/server_79_JP.ovpn) |
-| vpn320497100 | 185.130.226.80 | 1 | 23.83 Mbps | Netherlands | [Download 📥](./configs/server_80_NL.ovpn) |
-| vpn157756716 | 103.151.141.69 | 19 | 6.25 Mbps | Indonesia | [Download 📥](./configs/server_81_ID.ovpn) |
-| vpn898727181 | 185.163.46.4 | 33 | 8.56 Mbps | Moldova Republic of | [Download 📥](./configs/server_82_MD.ovpn) |
-| vpn392628304 | 185.117.89.40 | 1 | 17.97 Mbps | Bulgaria | [Download 📥](./configs/server_83_BG.ovpn) |
-| v-dot-pn-ams1 | 78.142.193.246 | 1 | 23.29 Mbps | Germany | [Download 📥](./configs/server_84_DE.ovpn) |
-| sv160 | 5.104.83.160 | 1 | 20.57 Mbps | Singapore | [Download 📥](./configs/server_85_SG.ovpn) |
-| vpn822227055 | 45.149.76.198 | 25 | 15.14 Mbps | Iran (ISLAMIC Republic Of) | [Download 📥](./configs/server_86_IR.ovpn) |
-| vpn446841399 | 164.70.191.30 | 5 | 8.09 Mbps | Japan | [Download 📥](./configs/server_87_JP.ovpn) |
-| vpn274293373 | 45.137.155.150 | 20 | 16.49 Mbps | United Kingdom | [Download 📥](./configs/server_88_GB.ovpn) |
-| vpn474849270 | 126.187.197.181 | 10 | 2.72 Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) |
-| vpn484044599 | 195.16.88.30 | 20 | 6.32 Mbps | Lithuania | [Download 📥](./configs/server_90_LT.ovpn) |
-| vpn439491631 | 202.220.190.103 | 14 | 1.01 Mbps | Japan | [Download 📥](./configs/server_91_JP.ovpn) |
-| vpn773081324 | 93.185.167.35 | 2 | 27.19 Mbps | Moldova Republic of | [Download 📥](./configs/server_92_MD.ovpn) |
-| vpn896218475 | 118.237.209.42 | 4 | 44.78 Mbps | Japan | [Download 📥](./configs/server_93_JP.ovpn) |
+| vpn794889600 | 185.73.203.176 | 8 | 9.49 Mbps | Turkey | [Download 📥](./configs/server_78_TR.ovpn) |
+| vpn122299033 | 185.181.229.102 | 15 | 4.85 Mbps | Moldova Republic of | [Download 📥](./configs/server_79_MD.ovpn) |
+| vpn475858293 | 153.205.163.180 | 5 | 17.64 Mbps | Japan | [Download 📥](./configs/server_80_JP.ovpn) |
+| vpn320497100 | 185.130.226.80 | 1 | 23.83 Mbps | Netherlands | [Download 📥](./configs/server_81_NL.ovpn) |
+| vpn157756716 | 103.151.141.69 | 19 | 6.25 Mbps | Indonesia | [Download 📥](./configs/server_82_ID.ovpn) |
+| vpn898727181 | 185.163.46.4 | 33 | 8.56 Mbps | Moldova Republic of | [Download 📥](./configs/server_83_MD.ovpn) |
+| vpn392628304 | 185.117.89.40 | 1 | 17.97 Mbps | Bulgaria | [Download 📥](./configs/server_84_BG.ovpn) |
+| v-dot-pn-ams1 | 78.142.193.246 | 1 | 23.29 Mbps | Germany | [Download 📥](./configs/server_85_DE.ovpn) |
+| sv160 | 5.104.83.160 | 1 | 20.57 Mbps | Singapore | [Download 📥](./configs/server_86_SG.ovpn) |
+| vpn822227055 | 45.149.76.198 | 25 | 15.14 Mbps | Iran (ISLAMIC Republic Of) | [Download 📥](./configs/server_87_IR.ovpn) |
+| vpn446841399 | 164.70.191.30 | 5 | 8.23 Mbps | Japan | [Download 📥](./configs/server_88_JP.ovpn) |
+| vpn274293373 | 45.137.155.150 | 20 | 16.49 Mbps | United Kingdom | [Download 📥](./configs/server_89_GB.ovpn) |
+| vpn474849270 | 126.187.197.181 | 10 | 2.72 Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) |
+| vpn484044599 | 195.16.88.30 | 20 | 6.32 Mbps | Lithuania | [Download 📥](./configs/server_91_LT.ovpn) |
+| vpn439491631 | 202.220.190.103 | 14 | 1.01 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
+| vpn773081324 | 93.185.167.35 | 2 | 27.19 Mbps | Moldova Republic of | [Download 📥](./configs/server_93_MD.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
