@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Thu, 16 May 2024 19:36:24 GMT.
+This list was last updated on: Thu, 16 May 2024 19:39:35 GMT.
 
 ## Available Servers
 
@@ -94,7 +94,7 @@ Below is the list of available VPN servers:
 | vpn725338765 | 193.218.118.170 | 13 | 9.33 Mbps | Ukraine | [Download 📥](./configs/server_79_UA.ovpn) |
 | v-dot-pn-hkg1 | 45.125.0.246 | 1 | 83.56 Mbps | Hong Kong | [Download 📥](./configs/server_80_HK.ovpn) |
 | v-dot-pn-ams1 | 78.142.193.246 | 1 | 23.10 Mbps | Germany | [Download 📥](./configs/server_81_DE.ovpn) |
-| vpn773081324 | 93.185.167.35 | 2 | 13.72 Mbps | Moldova Republic of | [Download 📥](./configs/server_82_MD.ovpn) |
+| vpn773081324 | 93.185.167.35 | 2 | 14.56 Mbps | Moldova Republic of | [Download 📥](./configs/server_82_MD.ovpn) |
 | vpn621971981 | 175.198.71.48 | 27 | 0.26 Mbps | Korea Republic of | [Download 📥](./configs/server_83_KR.ovpn) |
 | dfyxkj1115 | 82.156.224.109 | 39 | 3.35 Mbps | China | [Download 📥](./configs/server_84_CN.ovpn) |
 | vpn635029523 | 126.200.192.168 | 6 | 3.12 Mbps | Japan | [Download 📥](./configs/server_85_JP.ovpn) |
