@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 22 Jun 2024 03:37:20 GMT.
+This list was last updated on: Sat, 22 Jun 2024 03:44:18 GMT.
 
 ## Available Servers
 
@@ -37,11 +37,11 @@ Below is the list of available VPN servers:
 | vpn603793829 | 118.38.31.29 | 25 | 9.12 Mbps | Korea Republic of | [Download 📥](./configs/server_22_KR.ovpn) |
 | public-vpn-139 | 219.100.37.105 | 11 | 52.29 Mbps | Japan | [Download 📥](./configs/server_23_JP.ovpn) |
 | vpn241095740 | 115.179.202.53 | 14 | 22.27 Mbps | Japan | [Download 📥](./configs/server_24_JP.ovpn) |
-| 2i6 | 27.96.32.74 | 26 | 1.67 Mbps | Japan | [Download 📥](./configs/server_25_JP.ovpn) |
-| sandinoblock | 200.50.71.189 | 47 | 2.35 Mbps | Grenada | [Download 📥](./configs/server_26_GD.ovpn) |
-| public-vpn-197 | 219.100.37.211 | 31 | 51.96 Mbps | Japan | [Download 📥](./configs/server_27_JP.ovpn) |
-| vpn485635934 | 125.135.6.143 | 23 | 7.90 Mbps | Korea Republic of | [Download 📥](./configs/server_28_KR.ovpn) |
-| vpn991613185 | 126.94.144.86 | 6 | 23.59 Mbps | Japan | [Download 📥](./configs/server_29_JP.ovpn) |
+| sandinoblock | 200.50.71.189 | 47 | 2.35 Mbps | Grenada | [Download 📥](./configs/server_25_GD.ovpn) |
+| public-vpn-197 | 219.100.37.211 | 31 | 51.96 Mbps | Japan | [Download 📥](./configs/server_26_JP.ovpn) |
+| vpn485635934 | 125.135.6.143 | 23 | 7.90 Mbps | Korea Republic of | [Download 📥](./configs/server_27_KR.ovpn) |
+| vpn991613185 | 126.94.144.86 | 6 | 23.59 Mbps | Japan | [Download 📥](./configs/server_28_JP.ovpn) |
+| vpn361297839 | 195.123.240.66 | 1 | 23.34 Mbps | United States | [Download 📥](./configs/server_29_US.ovpn) |
 | vpn483090334 | 182.171.9.34 | 8 | 86.96 Mbps | Japan | [Download 📥](./configs/server_30_JP.ovpn) |
 | vpn580694801 | 15.164.19.104 | 73 | 17.03 Mbps | United States | [Download 📥](./configs/server_31_US.ovpn) |
 | vpn135418552 | 123.212.31.22 | 47 | 46.12 Mbps | Korea Republic of | [Download 📥](./configs/server_32_KR.ovpn) |
