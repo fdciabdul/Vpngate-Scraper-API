@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Thu, 17 Oct 2024 11:45:43 GMT.
+This list was last updated on: Thu, 17 Oct 2024 11:52:48 GMT.
 
 ## Available Servers
 
@@ -97,21 +97,21 @@ Below is the list of available VPN servers:
 | vpn984763777 | 118.179.230.227 | 27 | 6.26 Mbps | New Caledonia | [Download 📥](./configs/server_82_NC.ovpn) |
 | vpn510691740 | 222.117.210.115 | 27 | 91.47 Mbps | Korea Republic of | [Download 📥](./configs/server_83_KR.ovpn) |
 | vpn522510737 | 211.244.24.232 | 38 | 28.82 Mbps | Korea Republic of | [Download 📥](./configs/server_84_KR.ovpn) |
-| vpn710469241 | 118.155.111.18 | 28 | 8.99 Mbps | Japan | [Download 📥](./configs/server_85_JP.ovpn) |
-| vpn933851110 | 175.210.209.28 | 32 | 8.14 Mbps | Korea Republic of | [Download 📥](./configs/server_86_KR.ovpn) |
-| vpn338623002 | 175.205.49.179 | 32 | 8.55 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
-| vpn191689222 | 39.112.222.221 | 38 | 49.46 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
-| vpn819702081 | 222.111.239.117 | 38 | 28.23 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
-| vpn301186392 | 218.235.89.115 | 38 | 22.77 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
-| vpn883393731 | 159.192.37.102 | 37 | 9.08 Mbps | Thailand | [Download 📥](./configs/server_91_TH.ovpn) |
-| vpn895290987 | 85.95.178.239 | 26 | 1.96 Mbps | Russian Federation | [Download 📥](./configs/server_92_RU.ovpn) |
-| vpn335581116 | 58.237.98.53 | 41 | 9.42 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
-| vpn276081139 | 106.243.247.246 | 58 | 38.81 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
-| vpn961949173 | 49.228.243.114 | 37 | 46.12 Mbps | Thailand | [Download 📥](./configs/server_95_TH.ovpn) |
-| vpn730502558 | 180.83.152.241 | 61 | 10.85 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
-| vpn462890759 | 82.215.110.226 | 73 | 0.07 Mbps | Uzbekistan | [Download 📥](./configs/server_97_UZ.ovpn) |
-| vpn646076102 | 72.199.201.29 | 28 | 10.75 Mbps | United States | [Download 📥](./configs/server_98_US.ovpn) |
-| vpn662319764 | 5.143.25.96 | 125 | 7.70 Mbps | Russian Federation | [Download 📥](./configs/server_99_RU.ovpn) |
+| vpn940387222 | 211.202.83.83 | 32 | 9.34 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
+| vpn710469241 | 118.155.111.18 | 28 | 8.99 Mbps | Japan | [Download 📥](./configs/server_86_JP.ovpn) |
+| vpn933851110 | 175.210.209.28 | 32 | 8.14 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
+| vpn338623002 | 175.205.49.179 | 32 | 8.55 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
+| vpn191689222 | 39.112.222.221 | 38 | 49.46 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
+| vpn819702081 | 222.111.239.117 | 38 | 28.23 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
+| vpn301186392 | 218.235.89.115 | 38 | 22.77 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
+| vpn883393731 | 159.192.37.102 | 37 | 9.08 Mbps | Thailand | [Download 📥](./configs/server_92_TH.ovpn) |
+| vpn895290987 | 85.95.178.239 | 26 | 1.96 Mbps | Russian Federation | [Download 📥](./configs/server_93_RU.ovpn) |
+| vpn335581116 | 58.237.98.53 | 41 | 9.42 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
+| vpn276081139 | 106.243.247.246 | 58 | 38.81 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
+| vpn961949173 | 49.228.243.114 | 37 | 46.12 Mbps | Thailand | [Download 📥](./configs/server_96_TH.ovpn) |
+| vpn730502558 | 180.83.152.241 | 61 | 10.85 Mbps | Korea Republic of | [Download 📥](./configs/server_97_KR.ovpn) |
+| vpn462890759 | 82.215.110.226 | 73 | 0.07 Mbps | Uzbekistan | [Download 📥](./configs/server_98_UZ.ovpn) |
+| vpn646076102 | 72.199.201.29 | 28 | 10.75 Mbps | United States | [Download 📥](./configs/server_99_US.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
