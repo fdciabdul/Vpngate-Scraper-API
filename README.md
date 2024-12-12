@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Thu, 12 Dec 2024 21:40:37 GMT.
+This list was last updated on: Thu, 12 Dec 2024 21:47:39 GMT.
 
 ## Available Servers
 
@@ -93,21 +93,21 @@ Below is the list of available VPN servers:
 | vpn233513892 | 91.235.148.84 | 116 | 7.72 Mbps | Russian Federation | [Download 📥](./configs/server_78_RU.ovpn) |
 | vpn698126918 | 67.161.97.57 | 14 | 2.85 Mbps | United States | [Download 📥](./configs/server_79_US.ovpn) |
 | vpn664756485 | 49.228.246.6 | 34 | 2.63 Mbps | Thailand | [Download 📥](./configs/server_80_TH.ovpn) |
-| vpn564859390 | 118.240.172.98 | - | 40.57 Mbps | Japan | [Download 📥](./configs/server_81_JP.ovpn) |
-| vpn821741740 | 176.209.7.14 | 93 | 8.70 Mbps | Russian Federation | [Download 📥](./configs/server_82_RU.ovpn) |
-| vpn353725671 | 188.191.3.156 | 149 | 7.61 Mbps | Russian Federation | [Download 📥](./configs/server_83_RU.ovpn) |
-| vpn186031671 | 49.174.90.94 | 48 | 2.38 Mbps | Korea Republic of | [Download 📥](./configs/server_84_KR.ovpn) |
-| vpn142279278 | 178.44.235.34 | 45 | 2.09 Mbps | Russian Federation | [Download 📥](./configs/server_85_RU.ovpn) |
-| nomin-jpwest1 | 219.94.251.58 | 1 | 8.38 Mbps | Japan | [Download 📥](./configs/server_86_JP.ovpn) |
-| vpn720965634 | 119.150.86.16 | 5 | 20.13 Mbps | Japan | [Download 📥](./configs/server_87_JP.ovpn) |
-| vpn741518502 | 24.19.232.156 | 16 | 1.81 Mbps | United States | [Download 📥](./configs/server_88_US.ovpn) |
-| vpn444656748 | 60.120.88.52 | 10 | 3.70 Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) |
-| vpn572171735 | 91.210.199.214 | 65 | 2.13 Mbps | Russian Federation | [Download 📥](./configs/server_90_RU.ovpn) |
-| vpn932007079 | 121.87.235.25 | 6 | 21.16 Mbps | Japan | [Download 📥](./configs/server_91_JP.ovpn) |
-| vpn308883126 | 142.161.147.194 | 49 | 3.12 Mbps | Canada | [Download 📥](./configs/server_92_CA.ovpn) |
-| vpn822230190 | 109.110.51.126 | 136 | 1.89 Mbps | Russian Federation | [Download 📥](./configs/server_93_RU.ovpn) |
-| vpn253767689 | 39.117.153.100 | 31 | 44.35 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
-| vpn671539508 | 131.147.60.40 | 5 | 92.78 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
+| vpn992218126 | 92.37.232.97 | 114 | 21.73 Mbps | Russian Federation | [Download 📥](./configs/server_81_RU.ovpn) |
+| vpn564859390 | 118.240.172.98 | - | 40.57 Mbps | Japan | [Download 📥](./configs/server_82_JP.ovpn) |
+| vpn821741740 | 176.209.7.14 | 93 | 8.70 Mbps | Russian Federation | [Download 📥](./configs/server_83_RU.ovpn) |
+| vpn353725671 | 188.191.3.156 | 149 | 7.61 Mbps | Russian Federation | [Download 📥](./configs/server_84_RU.ovpn) |
+| vpn186031671 | 49.174.90.94 | 48 | 2.38 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
+| vpn142279278 | 178.44.235.34 | 45 | 2.09 Mbps | Russian Federation | [Download 📥](./configs/server_86_RU.ovpn) |
+| nomin-jpwest1 | 219.94.251.58 | 1 | 8.38 Mbps | Japan | [Download 📥](./configs/server_87_JP.ovpn) |
+| vpn720965634 | 119.150.86.16 | 5 | 20.13 Mbps | Japan | [Download 📥](./configs/server_88_JP.ovpn) |
+| vpn741518502 | 24.19.232.156 | 16 | 1.81 Mbps | United States | [Download 📥](./configs/server_89_US.ovpn) |
+| vpn444656748 | 60.120.88.52 | 10 | 3.70 Mbps | Japan | [Download 📥](./configs/server_90_JP.ovpn) |
+| vpn572171735 | 91.210.199.214 | 65 | 2.13 Mbps | Russian Federation | [Download 📥](./configs/server_91_RU.ovpn) |
+| vpn932007079 | 121.87.235.25 | 6 | 21.16 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
+| vpn308883126 | 142.161.147.194 | 49 | 3.12 Mbps | Canada | [Download 📥](./configs/server_93_CA.ovpn) |
+| vpn822230190 | 109.110.51.126 | 136 | 1.89 Mbps | Russian Federation | [Download 📥](./configs/server_94_RU.ovpn) |
+| vpn253767689 | 39.117.153.100 | 31 | 44.35 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
