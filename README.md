@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Wed, 05 Feb 2025 07:16:38 GMT.
+This list was last updated on: Wed, 05 Feb 2025 07:26:11 GMT.
 
 ## Available Servers
 
@@ -22,11 +22,11 @@ Below is the list of available VPN servers:
 | public-vpn-88 | 219.100.37.30 | 27 | 88.36 Mbps | Japan | [Download 📥](./configs/server_7_JP.ovpn) |
 | vpn478382227 | 115.38.81.156 | 7 | 109.43 Mbps | Japan | [Download 📥](./configs/server_8_JP.ovpn) |
 | vpn419555924 | 180.47.12.162 | 42 | 4.39 Mbps | Japan | [Download 📥](./configs/server_9_JP.ovpn) |
-| public-vpn-155 | 219.100.37.110 | 11 | 38.57 Mbps | Japan | [Download 📥](./configs/server_10_JP.ovpn) |
-| vpn625979685 | 116.127.232.71 | 34 | 3.85 Mbps | Korea Republic of | [Download 📥](./configs/server_11_KR.ovpn) |
-| public-vpn-201 | 219.100.37.212 | 10 | 104.99 Mbps | Japan | [Download 📥](./configs/server_12_JP.ovpn) |
-| vpn740346691 | 185.190.40.218 | 36 | 12.96 Mbps | Russian Federation | [Download 📥](./configs/server_13_RU.ovpn) |
-| vpn402699367 | 71.233.190.3 | 26 | 2.27 Mbps | United States | [Download 📥](./configs/server_14_US.ovpn) |
+| vpn139715120 | 220.87.46.9 | 31 | 78.30 Mbps | Korea Republic of | [Download 📥](./configs/server_10_KR.ovpn) |
+| public-vpn-155 | 219.100.37.110 | 11 | 38.57 Mbps | Japan | [Download 📥](./configs/server_11_JP.ovpn) |
+| vpn625979685 | 116.127.232.71 | 34 | 3.85 Mbps | Korea Republic of | [Download 📥](./configs/server_12_KR.ovpn) |
+| public-vpn-201 | 219.100.37.212 | 10 | 104.99 Mbps | Japan | [Download 📥](./configs/server_13_JP.ovpn) |
+| vpn740346691 | 185.190.40.218 | 36 | 12.96 Mbps | Russian Federation | [Download 📥](./configs/server_14_RU.ovpn) |
 | vpn447995182 | 211.107.94.24 | 32 | 8.19 Mbps | Korea Republic of | [Download 📥](./configs/server_15_KR.ovpn) |
 | vpn692977638 | 116.124.102.87 | 36 | 3.83 Mbps | Korea Republic of | [Download 📥](./configs/server_16_KR.ovpn) |
 | diamondgnd | 74.122.88.200 | 68 | 3.93 Mbps | Grenada | [Download 📥](./configs/server_17_GD.ovpn) |
