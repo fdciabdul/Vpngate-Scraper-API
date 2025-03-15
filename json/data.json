@@ -213,10 +213,10 @@
                 "speed": "1176122448",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "122",
-                "uptime": "3568540597",
-                "totalusers": "11946894",
-                "totaltraffic": "600532912920489",
+                "numvpnsessions": "119",
+                "uptime": "3568493940",
+                "totalusers": "11946891",
+                "totaltraffic": "600532720180645",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1665,5 +1665,5 @@
             "ir": "Iran (ISLAMIC Republic Of)"
         }
     },
-    1742054034163
+    1742054473875
 ]
