@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Sat, 22 Mar 2025 21:18:18 GMT.
+This list was last updated on: Sat, 22 Mar 2025 21:26:49 GMT.
 
 ## Available Servers
 
@@ -12,14 +12,14 @@ Below is the list of available VPN servers:
 
 | Hostname | IP Address | Ping | Speed | Country | OpenVPN Config |
 |----------|------------|-------|-------|---------|----------------|
-| public-vpn-261 | 219.100.37.192 | 22 | 76.40 Mbps | Japan | [Download 📥](./configs/server_0_JP.ovpn) |
+| public-vpn-261 | 219.100.37.192 | 10 | 121.19 Mbps | Japan | [Download 📥](./configs/server_0_JP.ovpn) |
 | public-vpn-160 | 219.100.37.124 | 16 | 75.50 Mbps | Japan | [Download 📥](./configs/server_1_JP.ovpn) |
 | public-vpn-120 | 219.100.37.101 | 12 | 76.82 Mbps | Japan | [Download 📥](./configs/server_2_JP.ovpn) |
 | public-vpn-119 | 219.100.37.113 | 12 | 79.21 Mbps | Japan | [Download 📥](./configs/server_3_JP.ovpn) |
 | public-vpn-45 | 219.100.37.9 | 19 | 60.47 Mbps | Japan | [Download 📥](./configs/server_4_JP.ovpn) |
 | public-vpn-78 | 219.100.37.53 | 13 | 42.63 Mbps | Japan | [Download 📥](./configs/server_5_JP.ovpn) |
 | public-vpn-38 | 219.100.37.2 | 12 | 60.38 Mbps | Japan | [Download 📥](./configs/server_6_JP.ovpn) |
-| public-vpn-185 | 219.100.37.193 | 9 | 57.14 Mbps | Japan | [Download 📥](./configs/server_7_JP.ovpn) |
+| public-vpn-185 | 219.100.37.193 | 13 | 97.26 Mbps | Japan | [Download 📥](./configs/server_7_JP.ovpn) |
 | public-vpn-207 | 219.100.37.167 | 10 | 175.08 Mbps | Japan | [Download 📥](./configs/server_8_JP.ovpn) |
 | public-vpn-153 | 219.100.37.109 | 13 | 66.09 Mbps | Japan | [Download 📥](./configs/server_9_JP.ovpn) |
 | vpn572738596 | 106.172.53.118 | 9 | 8.72 Mbps | Japan | [Download 📥](./configs/server_10_JP.ovpn) |
