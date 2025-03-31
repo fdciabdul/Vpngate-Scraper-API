@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Mon, 31 Mar 2025 23:26:48 GMT.
+This list was last updated on: Mon, 31 Mar 2025 23:34:37 GMT.
 
 ## Available Servers
 
@@ -107,6 +107,7 @@ Below is the list of available VPN servers:
 | vpn686323802 | 220.151.142.226 | 4 | 9.41 Mbps | Japan | [Download 📥](./configs/server_92_JP.ovpn) |
 | vpn261833948 | 97.80.136.136 | - | 1.93 Mbps | United States | [Download 📥](./configs/server_93_US.ovpn) |
 | vpn872287655 | 103.147.186.11 | 34 | 5.57 Mbps | Viet Nam | [Download 📥](./configs/server_94_VN.ovpn) |
+| vpn333851117 | 123.48.9.35 | 5 | 35.93 Mbps | Japan | [Download 📥](./configs/server_95_JP.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
