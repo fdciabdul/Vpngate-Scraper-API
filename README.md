@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Tue, 08 Apr 2025 21:25:58 GMT.
+This list was last updated on: Tue, 08 Apr 2025 21:34:14 GMT.
 
 ## Available Servers
 
@@ -21,7 +21,7 @@ Below is the list of available VPN servers:
 | public-vpn-138 | 219.100.37.117 | 13 | 191.61 Mbps | Japan | [Download 📥](./configs/server_6_JP.ovpn) |
 | public-vpn-44 | 219.100.37.8 | 11 | 227.51 Mbps | Japan | [Download 📥](./configs/server_7_JP.ovpn) |
 | public-vpn-102 | 219.100.37.32 | 8 | 225.85 Mbps | Japan | [Download 📥](./configs/server_8_JP.ovpn) |
-| public-vpn-250 | 219.100.37.174 | 10 | 204.45 Mbps | Japan | [Download 📥](./configs/server_9_JP.ovpn) |
+| public-vpn-250 | 219.100.37.174 | 21 | 112.74 Mbps | Japan | [Download 📥](./configs/server_9_JP.ovpn) |
 | public-vpn-39 | 219.100.37.3 | 17 | 214.56 Mbps | Japan | [Download 📥](./configs/server_10_JP.ovpn) |
 | vpn781876847 | 14.132.239.146 | 8 | 70.93 Mbps | Japan | [Download 📥](./configs/server_11_JP.ovpn) |
 | vpn411789230 | 153.137.52.223 | 17 | 40.86 Mbps | Japan | [Download 📥](./configs/server_12_JP.ovpn) |
@@ -36,7 +36,7 @@ Below is the list of available VPN servers:
 | vpn534938498 | 115.140.241.118 | 42 | 5.50 Mbps | Korea Republic of | [Download 📥](./configs/server_21_KR.ovpn) |
 | vpn498175076 | 180.70.144.31 | 31 | 25.37 Mbps | Korea Republic of | [Download 📥](./configs/server_22_KR.ovpn) |
 | public-vpn-197 | 219.100.37.211 | 8 | 61.91 Mbps | Japan | [Download 📥](./configs/server_23_JP.ovpn) |
-| public-vpn-237 | 219.100.37.186 | 14 | 171.35 Mbps | Japan | [Download 📥](./configs/server_24_JP.ovpn) |
+| public-vpn-237 | 219.100.37.186 | 19 | 203.23 Mbps | Japan | [Download 📥](./configs/server_24_JP.ovpn) |
 | public-vpn-159 | 219.100.37.112 | 12 | 154.64 Mbps | Japan | [Download 📥](./configs/server_25_JP.ovpn) |
 | opengw | 217.138.212.58 | 5 | 40.46 Mbps | Romania | [Download 📥](./configs/server_26_RO.ovpn) |
 | vpn124663358 | 131.147.129.22 | 3 | 7.26 Mbps | Japan | [Download 📥](./configs/server_27_JP.ovpn) |
