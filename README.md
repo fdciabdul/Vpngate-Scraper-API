@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Thu, 03 Jul 2025 07:49:00 GMT.
+This list was last updated on: Thu, 03 Jul 2025 07:56:07 GMT.
 
 ## Available Servers
 
@@ -101,12 +101,12 @@ Below is the list of available VPN servers:
 | vpn609375827 | 222.238.181.128 | 46 | 6.43 Mbps | Korea Republic of | [Download 📥](./configs/server_86_KR.ovpn) |
 | vpn506541314 | 175.197.4.27 | 31 | 17.32 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
 | vpn389629139 | 121.143.76.97 | 29 | 5.39 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
-| vpn781752500 | 211.204.153.78 | 33 | 6.92 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
-| vpn963218063 | 158.46.109.185 | 66 | 7.63 Mbps | Russian Federation | [Download 📥](./configs/server_90_RU.ovpn) |
-| vpn842536538 | 112.173.147.16 | 31 | 9.18 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
-| vpn585007031 | 211.217.189.20 | 27 | 2.62 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
-| vpn288115579 | 211.252.168.42 | 32 | 43.45 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
-| vpn990126810 | 123.143.23.43 | 40 | 5.94 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
+| vpn134123206 | 122.223.17.78 | 31 | 4.99 Mbps | Japan | [Download 📥](./configs/server_89_JP.ovpn) |
+| vpn781752500 | 211.204.153.78 | 33 | 6.92 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
+| vpn963218063 | 158.46.109.185 | 66 | 7.63 Mbps | Russian Federation | [Download 📥](./configs/server_91_RU.ovpn) |
+| vpn842536538 | 112.173.147.16 | 31 | 9.18 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
+| vpn585007031 | 211.217.189.20 | 27 | 2.62 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
+| vpn288115579 | 211.252.168.42 | 32 | 43.45 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
