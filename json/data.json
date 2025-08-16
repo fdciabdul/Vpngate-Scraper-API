@@ -38,15 +38,15 @@
             {
                 "hostname": "public-vpn-241",
                 "ip": "219.100.37.187",
-                "score": "2489976",
+                "score": "2490116",
                 "ping": "23",
                 "speed": "236054162",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "172",
-                "uptime": "499808958",
-                "totalusers": "15320164",
-                "totaltraffic": "842799321872099",
+                "numvpnsessions": "176",
+                "uptime": "499863153",
+                "totalusers": "15320169",
+                "totaltraffic": "842799636911856",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -157,15 +157,15 @@
             {
                 "hostname": "public-vpn-219",
                 "ip": "219.100.37.183",
-                "score": "1873742",
+                "score": "1873830",
                 "ping": "10",
                 "speed": "192605903",
                 "countrylong": "Japan",
                 "countryshort": "JP",
                 "numvpnsessions": "60",
-                "uptime": "499826635",
-                "totalusers": "9902777",
-                "totaltraffic": "488127553928140",
+                "uptime": "499870942",
+                "totalusers": "9902778",
+                "totaltraffic": "488127603455707",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1626,5 +1626,5 @@
             "vn": "Viet Nam"
         }
     },
-    1755345346921
+    1755346067520
 ]
