@@ -44,9 +44,9 @@
                 "countrylong": "Japan",
                 "countryshort": "JP",
                 "numvpnsessions": "109",
-                "uptime": "4838167264",
+                "uptime": "4838125173",
                 "totalusers": "6413965",
-                "totaltraffic": "311605377727886",
+                "totaltraffic": "311605245321359",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -230,10 +230,10 @@
                 "speed": "451572094",
                 "countrylong": "Japan",
                 "countryshort": "JP",
-                "numvpnsessions": "108",
-                "uptime": "4838164607",
-                "totalusers": "6627456",
-                "totaltraffic": "260117217210537",
+                "numvpnsessions": "109",
+                "uptime": "4838120703",
+                "totalusers": "6627455",
+                "totaltraffic": "260117166500119",
                 "logtype": "2weeks",
                 "operator": "Daiyuu Nobori_ Japan. Academic Use Only.",
                 "message": "",
@@ -1712,5 +1712,5 @@
             "us": "United States"
         }
     },
-    1759683778008
+    1759684353009
 ]
