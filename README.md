@@ -4,7 +4,7 @@ This is an auto-generated list of VPNs retrieved from a specific source.
 
 ## Last Updated
 
-This list was last updated on: Fri, 19 Jun 2026 00:15:40 GMT.
+This list was last updated on: Fri, 19 Jun 2026 01:34:40 GMT.
 
 ## Available Servers
 
@@ -12,103 +12,104 @@ Below is the list of available VPN servers:
 
 | Hostname | IP Address | Ping | Speed | Country | OpenVPN Config |
 |----------|------------|-------|-------|---------|----------------|
-| public-vpn-41 | 219.100.37.5 | 15 | 29.37 Mbps | Japan | [Download 📥](./configs/server_0_JP.ovpn) |
-| public-vpn-88 | 219.100.37.30 | 12 | 20.23 Mbps | Japan | [Download 📥](./configs/server_1_JP.ovpn) |
-| public-vpn-136 | 219.100.37.92 | 17 | 19.40 Mbps | Japan | [Download 📥](./configs/server_2_JP.ovpn) |
-| public-vpn-183 | 219.100.37.161 | 10 | 60.78 Mbps | Japan | [Download 📥](./configs/server_3_JP.ovpn) |
-| public-vpn-218 | 219.100.37.187 | 15 | 38.58 Mbps | Japan | [Download 📥](./configs/server_4_JP.ovpn) |
-| public-vpn-162 | 219.100.37.125 | 9 | 20.88 Mbps | Japan | [Download 📥](./configs/server_5_JP.ovpn) |
-| vpn903018230 | 47.154.114.234 | 3 | 36.71 Mbps | United States | [Download 📥](./configs/server_6_US.ovpn) |
-| public-vpn-220 | 219.100.37.221 | 10 | 21.52 Mbps | Japan | [Download 📥](./configs/server_7_JP.ovpn) |
-| vpn932993769 | 47.143.57.217 | 2 | 13.15 Mbps | United States | [Download 📥](./configs/server_8_US.ovpn) |
-| vpn946019409 | 126.130.164.3 | 2 | 53.42 Mbps | Japan | [Download 📥](./configs/server_9_JP.ovpn) |
-| public-vpn-108 | 219.100.37.98 | 8 | 47.95 Mbps | Japan | [Download 📥](./configs/server_10_JP.ovpn) |
-| vpn311904526 | 60.122.72.195 | 6 | 20.39 Mbps | Japan | [Download 📥](./configs/server_11_JP.ovpn) |
-| vpn953474563 | 211.206.234.68 | 32 | 35.41 Mbps | Korea Republic of | [Download 📥](./configs/server_12_KR.ovpn) |
-| n26 | 110.163.147.10 | 8 | 26.27 Mbps | Japan | [Download 📥](./configs/server_13_JP.ovpn) |
-| vpn711677985 | 143.189.43.87 | 7 | 45.94 Mbps | Japan | [Download 📥](./configs/server_14_JP.ovpn) |
-| vpn213790100 | 112.186.219.11 | 31 | 65.62 Mbps | Korea Republic of | [Download 📥](./configs/server_15_KR.ovpn) |
-| vpn355703068 | 60.86.178.76 | 5 | 45.73 Mbps | Japan | [Download 📥](./configs/server_16_JP.ovpn) |
-| vpn140020614 | 165.246.170.46 | 44 | 3.32 Mbps | Korea Republic of | [Download 📥](./configs/server_17_KR.ovpn) |
-| vpn815122145 | 121.106.148.235 | 25 | 70.47 Mbps | Japan | [Download 📥](./configs/server_18_JP.ovpn) |
-| laud | 115.179.206.241 | 24 | 3.76 Mbps | Japan | [Download 📥](./configs/server_19_JP.ovpn) |
-| public-vpn-46 | 219.100.37.10 | 10 | 31.65 Mbps | Japan | [Download 📥](./configs/server_20_JP.ovpn) |
-| vpn893972689 | 218.151.48.166 | 31 | 8.32 Mbps | Korea Republic of | [Download 📥](./configs/server_21_KR.ovpn) |
-| vpn966453156 | 182.224.28.246 | 42 | 67.31 Mbps | Korea Republic of | [Download 📥](./configs/server_22_KR.ovpn) |
-| vpn450574567 | 124.144.22.54 | 1 | 87.65 Mbps | Japan | [Download 📥](./configs/server_23_JP.ovpn) |
-| vpn531153236 | 175.198.115.46 | 33 | 50.60 Mbps | Korea Republic of | [Download 📥](./configs/server_24_KR.ovpn) |
-| vpn249157683 | 220.123.64.32 | 26 | 39.70 Mbps | Korea Republic of | [Download 📥](./configs/server_25_KR.ovpn) |
-| vpn627806105 | 118.32.168.140 | 32 | 4.59 Mbps | Korea Republic of | [Download 📥](./configs/server_26_KR.ovpn) |
-| public-vpn-138 | 219.100.37.117 | 21 | 40.20 Mbps | Japan | [Download 📥](./configs/server_27_JP.ovpn) |
-| public-vpn-234 | 219.100.37.172 | 15 | 23.01 Mbps | Japan | [Download 📥](./configs/server_28_JP.ovpn) |
-| public-vpn-122 | 219.100.37.62 | 19 | 43.14 Mbps | Japan | [Download 📥](./configs/server_29_JP.ovpn) |
-| vpn239949919 | 182.218.30.43 | 56 | 68.82 Mbps | Korea Republic of | [Download 📥](./configs/server_30_KR.ovpn) |
-| vpn681398325 | 126.208.100.178 | 4 | 80.37 Mbps | Japan | [Download 📥](./configs/server_31_JP.ovpn) |
-| vpn739654595 | 114.180.98.16 | 7 | 69.15 Mbps | Japan | [Download 📥](./configs/server_32_JP.ovpn) |
-| vpn236606284 | 60.125.73.210 | 3 | 66.36 Mbps | Japan | [Download 📥](./configs/server_33_JP.ovpn) |
-| vpn938522983 | 153.228.216.35 | 5 | 59.71 Mbps | Japan | [Download 📥](./configs/server_34_JP.ovpn) |
-| vpn802423284 | 180.196.56.135 | 8 | 29.73 Mbps | Japan | [Download 📥](./configs/server_35_JP.ovpn) |
-| vpn834385683 | 60.137.1.57 | 4 | 9.61 Mbps | Japan | [Download 📥](./configs/server_36_JP.ovpn) |
-| vpn736408586 | 210.183.30.224 | 30 | 8.48 Mbps | Korea Republic of | [Download 📥](./configs/server_37_KR.ovpn) |
-| vpn612215069 | 184.22.242.158 | 12 | 45.05 Mbps | Thailand | [Download 📥](./configs/server_38_TH.ovpn) |
-| vpn945052646 | 153.225.68.35 | 14 | 33.66 Mbps | Japan | [Download 📥](./configs/server_39_JP.ovpn) |
-| vpn214285412 | 14.101.9.4 | 14 | 54.25 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
-| vpn471818049 | 112.162.91.153 | 27 | 30.37 Mbps | Korea Republic of | [Download 📥](./configs/server_41_KR.ovpn) |
-| vpn737139331 | 124.18.14.66 | 7 | 6.17 Mbps | Japan | [Download 📥](./configs/server_42_JP.ovpn) |
-| vpn513979699 | 133.32.181.46 | 8 | 18.86 Mbps | Japan | [Download 📥](./configs/server_43_JP.ovpn) |
-| vpn363974203 | 188.186.6.19 | 33 | 4.51 Mbps | Russian Federation | [Download 📥](./configs/server_44_RU.ovpn) |
-| vpn669851144 | 123.199.101.140 | 45 | 39.11 Mbps | Korea Republic of | [Download 📥](./configs/server_45_KR.ovpn) |
-| vpn500578298 | 118.156.130.103 | 5 | 44.42 Mbps | Japan | [Download 📥](./configs/server_46_JP.ovpn) |
-| vpn129138571 | 220.102.233.254 | 7 | 47.43 Mbps | Japan | [Download 📥](./configs/server_47_JP.ovpn) |
-| vpn886871112 | 160.86.207.145 | 3 | 34.73 Mbps | Japan | [Download 📥](./configs/server_48_JP.ovpn) |
-| vpn729744401 | 109.110.47.186 | 122 | 8.92 Mbps | Russian Federation | [Download 📥](./configs/server_49_RU.ovpn) |
-| vpn286293325 | 220.118.140.212 | 31 | 9.38 Mbps | Korea Republic of | [Download 📥](./configs/server_50_KR.ovpn) |
-| vpn784135662 | 175.195.59.104 | 32 | 37.71 Mbps | Korea Republic of | [Download 📥](./configs/server_51_KR.ovpn) |
-| vpn922387505 | 175.209.13.17 | 34 | 5.16 Mbps | Korea Republic of | [Download 📥](./configs/server_52_KR.ovpn) |
-| vpn314485664 | 121.165.160.24 | 32 | 8.10 Mbps | Korea Republic of | [Download 📥](./configs/server_53_KR.ovpn) |
-| vpn194250677 | 124.98.109.128 | 4 | 40.01 Mbps | Japan | [Download 📥](./configs/server_54_JP.ovpn) |
-| vpn258254532 | 203.140.246.210 | 13 | 8.67 Mbps | Japan | [Download 📥](./configs/server_55_JP.ovpn) |
-| vpn208143625 | 118.156.149.165 | 2 | 85.03 Mbps | Japan | [Download 📥](./configs/server_56_JP.ovpn) |
-| vpn463146607 | 60.70.75.133 | 6 | 8.82 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
-| vpn765941161 | 2.50.193.8 | 11 | 5.77 Mbps | United Arab Emirates | [Download 📥](./configs/server_58_AE.ovpn) |
-| vpn751506395 | 219.104.167.40 | 1 | 91.64 Mbps | Japan | [Download 📥](./configs/server_59_JP.ovpn) |
-| vpn582729051 | 124.159.242.240 | 19 | 61.46 Mbps | Japan | [Download 📥](./configs/server_60_JP.ovpn) |
-| vpn388597938 | 77.51.116.114 | 21 | 5.53 Mbps | Russian Federation | [Download 📥](./configs/server_61_RU.ovpn) |
-| vpn204322741 | 49.228.67.213 | 9 | 36.79 Mbps | Thailand | [Download 📥](./configs/server_62_TH.ovpn) |
-| vpn632703705 | 61.117.8.122 | 9 | 65.60 Mbps | Japan | [Download 📥](./configs/server_63_JP.ovpn) |
-| vpn838701359 | 180.197.163.29 | 14 | 9.15 Mbps | Japan | [Download 📥](./configs/server_64_JP.ovpn) |
-| vpn537424733 | 60.113.235.220 | 3 | 46.01 Mbps | Japan | [Download 📥](./configs/server_65_JP.ovpn) |
-| vpn422162565 | 60.95.111.76 | 7 | 7.65 Mbps | Japan | [Download 📥](./configs/server_66_JP.ovpn) |
-| vpn468400206 | 49.228.246.42 | 14 | 40.59 Mbps | Thailand | [Download 📥](./configs/server_67_TH.ovpn) |
-| vpn604676767 | 153.210.169.146 | 4 | 74.93 Mbps | Japan | [Download 📥](./configs/server_68_JP.ovpn) |
-| vpn273131016 | 180.147.147.160 | 2 | 36.16 Mbps | Japan | [Download 📥](./configs/server_69_JP.ovpn) |
-| vpn534160118 | 211.193.150.252 | 27 | 44.38 Mbps | Korea Republic of | [Download 📥](./configs/server_70_KR.ovpn) |
-| vpn325544137 | 59.20.129.109 | 22 | 8.33 Mbps | Korea Republic of | [Download 📥](./configs/server_71_KR.ovpn) |
-| vpn610476381 | 221.162.250.106 | 24 | 43.52 Mbps | Korea Republic of | [Download 📥](./configs/server_72_KR.ovpn) |
-| vpn561126391 | 49.228.14.231 | 6 | 45.31 Mbps | Thailand | [Download 📥](./configs/server_73_TH.ovpn) |
-| vpn498864111 | 14.13.86.160 | 12 | 19.42 Mbps | Japan | [Download 📥](./configs/server_74_JP.ovpn) |
-| vpn774355602 | 49.228.93.145 | 17 | 16.02 Mbps | Thailand | [Download 📥](./configs/server_75_TH.ovpn) |
-| vpn610843897 | 109.171.69.236 | 59 | 2.45 Mbps | Russian Federation | [Download 📥](./configs/server_76_RU.ovpn) |
-| vpn866785402 | 118.70.63.184 | 22 | 9.10 Mbps | Viet Nam | [Download 📥](./configs/server_77_VN.ovpn) |
-| vpn925722503 | 121.149.175.224 | 30 | 34.58 Mbps | Korea Republic of | [Download 📥](./configs/server_78_KR.ovpn) |
-| vpn568950854 | 116.96.109.146 | 30 | 23.00 Mbps | Viet Nam | [Download 📥](./configs/server_79_VN.ovpn) |
-| vpn956235863 | 184.22.146.184 | 6 | 43.55 Mbps | Thailand | [Download 📥](./configs/server_80_TH.ovpn) |
-| vpn497394346 | 118.71.235.250 | 19 | 19.34 Mbps | Viet Nam | [Download 📥](./configs/server_81_VN.ovpn) |
-| vpn928731604 | 14.95.7.68 | 33 | 47.18 Mbps | Korea Republic of | [Download 📥](./configs/server_82_KR.ovpn) |
-| vpn221668572 | 58.233.80.160 | 32 | 46.78 Mbps | Korea Republic of | [Download 📥](./configs/server_83_KR.ovpn) |
-| vpn759926803 | 59.17.107.168 | 29 | 50.06 Mbps | Korea Republic of | [Download 📥](./configs/server_84_KR.ovpn) |
-| vpn139049070 | 59.16.179.174 | 28 | 7.92 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
-| vpn113898548 | 46.216.60.117 | 8 | 0.00 Mbps | Belarus | [Download 📥](./configs/server_86_BY.ovpn) |
-| vpn303243600 | 222.109.65.142 | 32 | 8.18 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
-| vpn596809006 | 27.35.222.43 | 34 | 4.05 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
-| vpn683853070 | 31.130.6.130 | 38 | 14.76 Mbps | Russian Federation | [Download 📥](./configs/server_89_RU.ovpn) |
-| vpn708893950 | 118.33.172.139 | 34 | 46.36 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
-| vpn312937813 | 1.254.21.201 | 35 | 9.47 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
-| vpn960499516 | 218.238.196.27 | 37 | 50.44 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
-| vpn435819101 | 47.141.29.68 | 10 | 23.17 Mbps | United States | [Download 📥](./configs/server_93_US.ovpn) |
-| vpn548152819 | 37.21.193.122 | 62 | 8.78 Mbps | Russian Federation | [Download 📥](./configs/server_94_RU.ovpn) |
-| vpn803706559 | 176.50.35.181 | 60 | 38.16 Mbps | Russian Federation | [Download 📥](./configs/server_95_RU.ovpn) |
-| vpn768969712 | 176.210.164.132 | 65 | 6.35 Mbps | Russian Federation | [Download 📥](./configs/server_96_RU.ovpn) |
+| public-vpn-134 | 219.100.37.104 | 9 | 41.40 Mbps | Japan | [Download 📥](./configs/server_0_JP.ovpn) |
+| public-vpn-228 | 219.100.37.220 | 31 | 20.40 Mbps | Japan | [Download 📥](./configs/server_1_JP.ovpn) |
+| public-vpn-258 | 219.100.37.190 | 13 | 19.55 Mbps | Japan | [Download 📥](./configs/server_2_JP.ovpn) |
+| public-vpn-198 | 219.100.37.178 | 23 | 62.44 Mbps | Japan | [Download 📥](./configs/server_3_JP.ovpn) |
+| public-vpn-164 | 219.100.37.128 | 24 | 25.50 Mbps | Japan | [Download 📥](./configs/server_4_JP.ovpn) |
+| public-vpn-201 | 219.100.37.212 | 8 | 23.38 Mbps | Japan | [Download 📥](./configs/server_5_JP.ovpn) |
+| public-vpn-225 | 219.100.37.219 | 8 | 17.72 Mbps | Japan | [Download 📥](./configs/server_6_JP.ovpn) |
+| public-vpn-72 | 219.100.37.22 | 11 | 33.72 Mbps | Japan | [Download 📥](./configs/server_7_JP.ovpn) |
+| public-vpn-236 | 219.100.37.191 | 25 | 28.23 Mbps | Japan | [Download 📥](./configs/server_8_JP.ovpn) |
+| public-vpn-220 | 219.100.37.221 | 10 | 21.52 Mbps | Japan | [Download 📥](./configs/server_9_JP.ovpn) |
+| vpn132949429 | 47.147.111.130 | 4 | 15.38 Mbps | United States | [Download 📥](./configs/server_10_US.ovpn) |
+| public-vpn-257 | 219.100.37.208 | 18 | 20.55 Mbps | Japan | [Download 📥](./configs/server_11_JP.ovpn) |
+| vpn179763659 | 203.168.111.155 | 7 | 66.20 Mbps | Japan | [Download 📥](./configs/server_12_JP.ovpn) |
+| vpn147580804 | 60.128.102.181 | 6 | 35.24 Mbps | Japan | [Download 📥](./configs/server_13_JP.ovpn) |
+| vpn655909591 | 106.158.139.230 | 9 | 48.54 Mbps | Japan | [Download 📥](./configs/server_14_JP.ovpn) |
+| vpn570908507 | 118.157.139.36 | 22 | 46.00 Mbps | Japan | [Download 📥](./configs/server_15_JP.ovpn) |
+| public-vpn-216 | 219.100.37.218 | 12 | 19.71 Mbps | Japan | [Download 📥](./configs/server_16_JP.ovpn) |
+| vpn507444158 | 118.45.223.230 | 24 | 10.44 Mbps | Korea Republic of | [Download 📥](./configs/server_17_KR.ovpn) |
+| vpn311904526 | 60.122.72.195 | 6 | 20.39 Mbps | Japan | [Download 📥](./configs/server_18_JP.ovpn) |
+| public-vpn-205 | 219.100.37.214 | 24 | 18.66 Mbps | Japan | [Download 📥](./configs/server_19_JP.ovpn) |
+| vpn692820223 | 14.235.172.94 | 28 | 5.61 Mbps | Viet Nam | [Download 📥](./configs/server_20_VN.ovpn) |
+| vpn763310803 | 118.18.237.230 | 5 | 25.86 Mbps | Japan | [Download 📥](./configs/server_21_JP.ovpn) |
+| vpn295229590 | 210.113.72.116 | 32 | 8.84 Mbps | Korea Republic of | [Download 📥](./configs/server_22_KR.ovpn) |
+| vpn742926420 | 61.47.212.110 | 34 | 8.22 Mbps | Korea Republic of | [Download 📥](./configs/server_23_KR.ovpn) |
+| vpn843265469 | 220.93.52.189 | 34 | 4.38 Mbps | Korea Republic of | [Download 📥](./configs/server_24_KR.ovpn) |
+| vpn864577769 | 125.140.60.105 | 34 | 7.80 Mbps | Korea Republic of | [Download 📥](./configs/server_25_KR.ovpn) |
+| vpn859005905 | 183.99.100.162 | 30 | 2.82 Mbps | Korea Republic of | [Download 📥](./configs/server_26_KR.ovpn) |
+| vpn792876484 | 219.28.132.31 | 6 | 212.22 Mbps | Japan | [Download 📥](./configs/server_27_JP.ovpn) |
+| public-vpn-100 | 219.100.37.57 | 12 | 22.56 Mbps | Japan | [Download 📥](./configs/server_28_JP.ovpn) |
+| vpn225050500 | 61.11.207.28 | 102 | 6.65 Mbps | Japan | [Download 📥](./configs/server_29_JP.ovpn) |
+| public-vpn-52 | 219.100.37.16 | 25 | 36.88 Mbps | Japan | [Download 📥](./configs/server_30_JP.ovpn) |
+| vpn340284134 | 207.237.64.101 | 10 | 41.73 Mbps | United States | [Download 📥](./configs/server_31_US.ovpn) |
+| vpn582510225 | 126.79.241.255 | 6 | 49.45 Mbps | Japan | [Download 📥](./configs/server_32_JP.ovpn) |
+| vpn457942597 | 121.128.227.42 | 33 | 9.21 Mbps | Korea Republic of | [Download 📥](./configs/server_33_KR.ovpn) |
+| vpn106798950 | 118.240.49.38 | 2 | 36.52 Mbps | Japan | [Download 📥](./configs/server_34_JP.ovpn) |
+| vpn690178218 | 126.219.5.21 | 7 | 35.86 Mbps | Japan | [Download 📥](./configs/server_35_JP.ovpn) |
+| vpn431640227 | 110.46.158.118 | 38 | 4.60 Mbps | Korea Republic of | [Download 📥](./configs/server_36_KR.ovpn) |
+| laud | 115.179.206.241 | 23 | 0.23 Mbps | Japan | [Download 📥](./configs/server_37_JP.ovpn) |
+| vpn115711237 | 1.234.134.66 | 30 | 24.78 Mbps | Korea Republic of | [Download 📥](./configs/server_38_KR.ovpn) |
+| vpn710705957 | 106.150.125.155 | 11 | 82.92 Mbps | Japan | [Download 📥](./configs/server_39_JP.ovpn) |
+| vpn392446430 | 118.154.64.54 | 1 | 85.40 Mbps | Japan | [Download 📥](./configs/server_40_JP.ovpn) |
+| vpn870799933 | 121.81.4.205 | 2 | 26.79 Mbps | Japan | [Download 📥](./configs/server_41_JP.ovpn) |
+| vpn133952495 | 119.193.44.139 | 31 | 9.44 Mbps | Korea Republic of | [Download 📥](./configs/server_42_KR.ovpn) |
+| vpn326638970 | 119.105.81.230 | 12 | 46.20 Mbps | Japan | [Download 📥](./configs/server_43_JP.ovpn) |
+| vpn724833364 | 118.240.250.95 | 3 | 14.58 Mbps | Japan | [Download 📥](./configs/server_44_JP.ovpn) |
+| vpn473206366 | 60.119.199.206 | 17 | 25.35 Mbps | Japan | [Download 📥](./configs/server_45_JP.ovpn) |
+| vpn113289627 | 115.90.91.30 | 57 | 73.64 Mbps | Korea Republic of | [Download 📥](./configs/server_46_KR.ovpn) |
+| vpn534120936 | 106.161.34.210 | 2 | 81.57 Mbps | Japan | [Download 📥](./configs/server_47_JP.ovpn) |
+| vpn615046637 | 111.168.55.72 | 4 | 20.00 Mbps | Japan | [Download 📥](./configs/server_48_JP.ovpn) |
+| vpn617101521 | 14.132.26.242 | 4 | 75.59 Mbps | Japan | [Download 📥](./configs/server_49_JP.ovpn) |
+| vpn947532922 | 221.149.171.235 | 28 | 7.03 Mbps | Korea Republic of | [Download 📥](./configs/server_50_KR.ovpn) |
+| vpn233024983 | 218.148.133.107 | 33 | 9.51 Mbps | Korea Republic of | [Download 📥](./configs/server_51_KR.ovpn) |
+| vpn658783463 | 98.113.136.147 | 3 | 0.00 Mbps | United States | [Download 📥](./configs/server_52_US.ovpn) |
+| vpn770383715 | 110.14.206.27 | 32 | 9.00 Mbps | Korea Republic of | [Download 📥](./configs/server_53_KR.ovpn) |
+| vpn836042621 | 180.200.120.212 | 7 | 9.45 Mbps | Japan | [Download 📥](./configs/server_54_JP.ovpn) |
+| vpn595298283 | 58.120.119.140 | 35 | 6.46 Mbps | Korea Republic of | [Download 📥](./configs/server_55_KR.ovpn) |
+| vpn744032933 | 90.149.85.59 | 2 | 97.88 Mbps | Japan | [Download 📥](./configs/server_56_JP.ovpn) |
+| vpn388646752 | 153.206.200.2 | 5 | 68.99 Mbps | Japan | [Download 📥](./configs/server_57_JP.ovpn) |
+| vpn381887891 | 120.75.89.149 | 1 | 96.50 Mbps | Japan | [Download 📥](./configs/server_58_JP.ovpn) |
+| vpn106558468 | 70.69.200.251 | 17 | 35.83 Mbps | Canada | [Download 📥](./configs/server_59_CA.ovpn) |
+| vpn742430432 | 220.84.76.96 | 25 | 9.09 Mbps | Korea Republic of | [Download 📥](./configs/server_60_KR.ovpn) |
+| vpn809753260 | 124.246.174.153 | 8 | 95.36 Mbps | Japan | [Download 📥](./configs/server_61_JP.ovpn) |
+| vpn264775944 | 115.37.166.245 | 7 | 9.79 Mbps | Japan | [Download 📥](./configs/server_62_JP.ovpn) |
+| vpn642460037 | 60.126.113.80 | 5 | 36.50 Mbps | Japan | [Download 📥](./configs/server_63_JP.ovpn) |
+| vpn913413223 | 182.165.169.56 | 3 | 10.70 Mbps | Japan | [Download 📥](./configs/server_64_JP.ovpn) |
+| vpn665363301 | 126.214.226.73 | 9 | 33.90 Mbps | Japan | [Download 📥](./configs/server_65_JP.ovpn) |
+| vpn671615635 | 180.199.25.177 | 7 | 8.51 Mbps | Japan | [Download 📥](./configs/server_66_JP.ovpn) |
+| vpn446449836 | 126.94.134.97 | 13 | 9.72 Mbps | Japan | [Download 📥](./configs/server_67_JP.ovpn) |
+| vpn316528831 | 183.104.124.77 | 22 | 4.46 Mbps | Korea Republic of | [Download 📥](./configs/server_68_KR.ovpn) |
+| vpn457280923 | 126.224.139.122 | 6 | 90.76 Mbps | Japan | [Download 📥](./configs/server_69_JP.ovpn) |
+| vpn800624283 | 133.32.177.178 | 15 | 7.05 Mbps | Japan | [Download 📥](./configs/server_70_JP.ovpn) |
+| vpn537424733 | 60.113.235.220 | 3 | 46.01 Mbps | Japan | [Download 📥](./configs/server_71_JP.ovpn) |
+| vpn782864198 | 61.79.222.123 | 31 | 32.95 Mbps | Korea Republic of | [Download 📥](./configs/server_72_KR.ovpn) |
+| vpn335308501 | 133.32.232.1 | 3 | 46.75 Mbps | Japan | [Download 📥](./configs/server_73_JP.ovpn) |
+| vpn228456432 | 219.104.162.84 | 9 | 94.14 Mbps | Japan | [Download 📥](./configs/server_74_JP.ovpn) |
+| vpn467563286 | 60.106.183.207 | 4 | 62.91 Mbps | Japan | [Download 📥](./configs/server_75_JP.ovpn) |
+| vpn245735954 | 210.157.194.142 | 28 | 3.04 Mbps | Japan | [Download 📥](./configs/server_76_JP.ovpn) |
+| vpn896189094 | 58.95.8.225 | 18 | 17.05 Mbps | Japan | [Download 📥](./configs/server_77_JP.ovpn) |
+| vpn275186768 | 49.228.96.133 | 3 | 52.89 Mbps | Thailand | [Download 📥](./configs/server_78_TH.ovpn) |
+| vpn567956570 | 42.148.36.223 | 17 | 8.90 Mbps | Japan | [Download 📥](./configs/server_79_JP.ovpn) |
+| vpn893273760 | 14.47.236.8 | 29 | 9.47 Mbps | Korea Republic of | [Download 📥](./configs/server_80_KR.ovpn) |
+| vpn595249968 | 121.109.41.153 | 25 | 30.33 Mbps | Japan | [Download 📥](./configs/server_81_JP.ovpn) |
+| vpn300610666 | 203.237.114.247 | 38 | 8.77 Mbps | Korea Republic of | [Download 📥](./configs/server_82_KR.ovpn) |
+| vpn536497886 | 218.156.18.217 | 29 | 6.03 Mbps | Korea Republic of | [Download 📥](./configs/server_83_KR.ovpn) |
+| vpn576236365 | 175.125.132.174 | 34 | 49.49 Mbps | Korea Republic of | [Download 📥](./configs/server_84_KR.ovpn) |
+| vpn914595049 | 125.143.134.61 | 28 | 40.85 Mbps | Korea Republic of | [Download 📥](./configs/server_85_KR.ovpn) |
+| vpn961000736 | 119.195.168.215 | 32 | 33.38 Mbps | Korea Republic of | [Download 📥](./configs/server_86_KR.ovpn) |
+| vpn400963391 | 210.104.96.99 | 34 | 12.87 Mbps | Korea Republic of | [Download 📥](./configs/server_87_KR.ovpn) |
+| vpn776183153 | 42.82.223.31 | 39 | 9.58 Mbps | Korea Republic of | [Download 📥](./configs/server_88_KR.ovpn) |
+| vpn409660321 | 175.193.251.94 | 34 | 34.56 Mbps | Korea Republic of | [Download 📥](./configs/server_89_KR.ovpn) |
+| vpn609375827 | 222.238.181.128 | 41 | 6.04 Mbps | Korea Republic of | [Download 📥](./configs/server_90_KR.ovpn) |
+| vpn363465194 | 110.46.54.182 | 33 | 43.17 Mbps | Korea Republic of | [Download 📥](./configs/server_91_KR.ovpn) |
+| vpn128294131 | 103.226.77.183 | 41 | 3.06 Mbps | Korea Republic of | [Download 📥](./configs/server_92_KR.ovpn) |
+| vpn915801029 | 119.192.171.127 | 33 | 8.70 Mbps | Korea Republic of | [Download 📥](./configs/server_93_KR.ovpn) |
+| vpn950733658 | 211.204.78.135 | 34 | 6.09 Mbps | Korea Republic of | [Download 📥](./configs/server_94_KR.ovpn) |
+| vpn285760293 | 119.203.146.9 | 36 | 2.49 Mbps | Korea Republic of | [Download 📥](./configs/server_95_KR.ovpn) |
+| vpn667584789 | 39.114.102.23 | 46 | 7.14 Mbps | Korea Republic of | [Download 📥](./configs/server_96_KR.ovpn) |
+| vpn322860577 | 178.186.90.2 | 61 | 7.51 Mbps | Russian Federation | [Download 📥](./configs/server_97_RU.ovpn) |
 
 
 ### Note: Please respect the terms of use for each VPN.
